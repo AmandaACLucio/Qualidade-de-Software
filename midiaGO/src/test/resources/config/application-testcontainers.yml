@@ -12,8 +12,8 @@ spring:
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
     driver-class-name: org.testcontainers.jdbc.ContainerDatabaseDriver
-    url: jdbc:tc:postgresql:13.2:///midiaGO?TC_TMPFS=/testtmpfs:rw
-    username: midiaGO
+    url: jdbc:tc:postgresql:13.2:///midiaGo?TC_TMPFS=/testtmpfs:rw
+    username: midiaGo
     password:
     hikari:
       poolName: Hikari

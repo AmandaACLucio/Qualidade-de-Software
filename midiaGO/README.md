@@ -1,4 +1,4 @@
-# midiaGO
+# midiaGo
 
 This application was generated using JHipster 7.0.1, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.0.1](https://www.jhipster.tech/documentation-archive/v7.0.1).
 
@@ -73,7 +73,7 @@ For further instructions on how to develop with JHipster, have a look at [Using 
 
 ### Packaging as jar
 
-To build the final jar and optimize the midiaGO application for production, run:
+To build the final jar and optimize the midiaGo application for production, run:
 
 ```
 ./mvnw -Pprod clean verify

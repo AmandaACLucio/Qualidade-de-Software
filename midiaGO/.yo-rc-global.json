@@ -1,9 +1,4 @@
 {
-  "generator-jhipster-agilekip:0.0.12": {
-    "promptValues": {
-      "packageName": "com.midia.go"
-    }
-  },
   "generator-jhipster:7.0.1": {
     "promptValues": {
       "nativeLanguage": "en"

@@ -17,7 +17,7 @@ logging:
   level:
     ROOT: INFO
     tech.jhipster: INFO
-    com.midia.go: INFO
+    com.mycompany.myapp: INFO
 
 management:
   metrics:
@@ -33,8 +33,8 @@ spring:
       enabled: false
   datasource:
     type: com.zaxxer.hikari.HikariDataSource
-    url: jdbc:postgresql://localhost:5432/midiaGO
-    username: midiaGO
+    url: jdbc:postgresql://localhost:5432/midiaGo
+    username: midiaGo
     password:
     hikari:
       poolName: Hikari
@@ -101,7 +101,7 @@ jhipster:
         # - In the JHipster Registry (which includes a Spring Cloud Config server)
         # - In a separate `application-prod.yml` file, in the same folder as your executable JAR file
         # - In the `JHIPSTER_SECURITY_AUTHENTICATION_JWT_BASE64_SECRET` environment variable
-        base64-secret: MzMyMmUzMDYxNDFlZTMzYzI2MGQ0MWQ5ZWY1ODllODkyMmY2OWI0NTM3N2FiNjU0ZjkwNWY4YjBlMjM3NjU1ZmVhZDAyYTg1YTRlYzE2MjhjYWEzMWI2ZWJkNGIwMjRhY2NmNzNmMzNkNGUxNTZmNDQzNzMxZTNkYjNlOGViYTU=
+        base64-secret: YWQzMDJmYWM0ZTc0ZTgwMjIxZGM0MjQzZTkzODdmMTdmMjc2NDQ0MTI1OTAyNTlkZDRlZGEyMmYwMjE5MjU5ZTI0N2ZiNjU5YTAwMDMzNGU2YzM2YTY5NmRjOTBjNjRjZjdlYTg1YTViY2FiZTExMmI1NWQ2MjQ3OTJhZThiZmE=
         # Token is valid 24 hours
         token-validity-in-seconds: 86400
         token-validity-in-seconds-for-remember-me: 2592000
