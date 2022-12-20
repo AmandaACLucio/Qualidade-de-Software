@@ -1,0 +1,41 @@
+{
+  "fields": [
+    {
+      "fieldName": "userName",
+      "fieldType": "String",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "startDate",
+      "fieldType": "LocalDate",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "endDate",
+      "fieldType": "LocalDate",
+      "fieldReadOnly": true
+    },
+    {
+      "fieldName": "mediaName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "mediaBookingNumber",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "user-task-form",
+  "processBpmnId": "MidiaGoProcess",
+  "processEntityName": "MidiaGoProcess",
+  "taskBpmnId": "TaskBooking",
+  "domainEntityName": "MidiaGo",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "skipFakeData": true,
+  "name": "TaskBooking",
+  "changelogDate": "20210401000004"
+}

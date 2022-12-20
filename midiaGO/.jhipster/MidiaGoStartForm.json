@@ -1,0 +1,33 @@
+{
+  "fields": [
+    {
+      "fieldName": "userName",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "startDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "endDate",
+      "fieldType": "LocalDate"
+    },
+    {
+      "fieldName": "mediaName",
+      "fieldType": "String"
+    }
+  ],
+  "relationships": [],
+  "entityType": "start-form",
+  "processBpmnId": "MidiaGoProcess",
+  "processEntityName": "MidiaGoProcess",
+  "domainEntityName": "MidiaGo",
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "name": "MidiaGoStartForm",
+  "changelogDate": "20210401000002",
+  "skipFakeData": true
+}

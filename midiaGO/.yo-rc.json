@@ -52,6 +52,7 @@
     "jwtSecretKey": "YWQzMDJmYWM0ZTc0ZTgwMjIxZGM0MjQzZTkzODdmMTdmMjc2NDQ0MTI1OTAyNTlkZDRlZGEyMmYwMjE5MjU5ZTI0N2ZiNjU5YTAwMDMzNGU2YzM2YTY5NmRjOTBjNjRjZjdlYTg1YTViY2FiZTExMmI1NWQ2MjQ3OTJhZThiZmE=",
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en"]
+    "languages": ["en"],
+    "entities": ["MidiaGo"]
   }
 }

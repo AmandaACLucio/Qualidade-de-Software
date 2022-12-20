@@ -1,0 +1,20 @@
+{
+  "midiaGoApp": {
+    "midiaGo": {
+      "home": {
+        "title": "Midia Gos",
+        "refreshListLabel": "Refresh list",
+        "notFound": "No Midia Gos found"
+      },
+      "detail": {
+        "title": "Midia Go"
+      },
+      "id": "ID",
+      "userName": "User Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "mediaName": "Media Name",
+      "mediaBookingNumber": "Media Booking Number"
+    }
+  }
+}

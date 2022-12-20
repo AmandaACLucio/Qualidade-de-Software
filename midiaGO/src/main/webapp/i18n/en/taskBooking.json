@@ -1,0 +1,28 @@
+{
+  "midiaGoApp": {
+    "taskBooking": {
+      "home": {
+        "title": "Task Bookings",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Task Booking",
+        "createOrEditLabel": "Create or edit a Task Booking",
+        "notFound": "No Task Bookings found"
+      },
+      "created": "A new Task Booking is created with identifier {{ param }}",
+      "updated": "A Task Booking is updated with identifier {{ param }}",
+      "deleted": "A Task Booking is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Task Booking {{ id }}?"
+      },
+      "detail": {
+        "title": "Task Booking"
+      },
+      "id": "ID",
+      "userName": "User Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "mediaName": "Media Name",
+      "mediaBookingNumber": "Media Booking Number"
+    }
+  }
+}

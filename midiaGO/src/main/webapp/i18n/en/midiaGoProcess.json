@@ -1,0 +1,28 @@
+{
+  "midiaGoApp": {
+    "midiaGoProcess": {
+      "home": {
+        "title": "Midia Go Processes",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Midia Go Process",
+        "createOrEditLabel": "Create or edit a Midia Go Process",
+        "notFound": "No Midia Go Processes found"
+      },
+      "created": "A new Midia Go Process is created with identifier {{ param }}",
+      "updated": "A Midia Go Process is updated with identifier {{ param }}",
+      "deleted": "A Midia Go Process is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Midia Go Process {{ id }}?"
+      },
+      "detail": {
+        "title": "Midia Go Process"
+      },
+      "id": "ID",
+      "userName": "User Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "mediaName": "Media Name",
+      "mediaBookingNumber": "Media Booking Number"
+    }
+  }
+}

@@ -12,6 +12,10 @@
         "processInstance": "Process Instances",
         "taskInstance": "All Tasks",
         "myCandidateTasks": "My Tasks",
+        "midiaGo": "Midia Go",
+        "midiaGoProcess": "Midia Go Process",
+        "midiaGoStartForm": "Midia Go Start Form",
+        "taskBooking": "Task Booking",
         "jhipster-needle-menu-add-entry": "JHipster will add additional entities here (do not translate!)"
       },
       "account": {

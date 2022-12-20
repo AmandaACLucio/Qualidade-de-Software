@@ -1,0 +1,27 @@
+{
+  "midiaGoApp": {
+    "midiaGoStartForm": {
+      "home": {
+        "title": "Midia Go Start Forms",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Midia Go Start Form",
+        "createOrEditLabel": "Create or edit a Midia Go Start Form",
+        "notFound": "No Midia Go Start Forms found"
+      },
+      "created": "A new Midia Go Start Form is created with identifier {{ param }}",
+      "updated": "A Midia Go Start Form is updated with identifier {{ param }}",
+      "deleted": "A Midia Go Start Form is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Midia Go Start Form {{ id }}?"
+      },
+      "detail": {
+        "title": "Midia Go Start Form"
+      },
+      "id": "ID",
+      "userName": "User Name",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "mediaName": "Media Name"
+    }
+  }
+}
