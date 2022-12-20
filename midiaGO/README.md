@@ -37,18 +37,18 @@ Para rodar o projeto, basta ir na pasta do app e rodar o seguinte comando:
     
 - **Process-binding entity**
 
- O arquivo json que define a entidade de processo do projeto pode ser visualizado no link abaixo:
+    O arquivo json que define a entidade de processo do projeto pode ser visualizado no link abaixo:
  
-    [Domain entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/MidiaGoProcess.json)
+    [Process-binding entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/MidiaGoProcess.json)
     
 - **Start-form entity**
  
- O arquivo json que define a entidade de domínio do projeto pode ser visualizado no link abaixo:
+    O arquivo json que define a entidade do formulário inicial do projeto pode ser visualizado no link abaixo:
  
-    [Domain entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/MidiaGo.json)
+    [Start-form entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/MidiaGoStartForm.json)
     
 - **User-task entity**
 
- O arquivo json que define a entidade de domínio do projeto pode ser visualizado no link abaixo:
+    O arquivo json que define a entidade da tarefa do usuário do projeto, que no caso é a reserva de mídia, pode ser visualizado no link abaixo:
  
-    [Domain entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/MidiaGo.json)
+    [User-task entity](https://github.com/AmandaACLucio/Qualidade-de-Software/blob/f98e01ea4264782d2cdf716b9e0880c3b1fa7c2d/midiaGO/.jhipster/TaskBooking.json)
